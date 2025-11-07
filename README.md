@@ -17,7 +17,6 @@
 - 📫 How to reach me **mohdkabeer274@gmail.com**
 - ⚡ Fun fact **I can design smooth UIs and debug backend logic — both before coffee ☕💻**
 
-*- 📄 Know about my experiences [**Resume (PDF)**](#)* 
 ---
 
 ## 🧠 **Languages and Tools**
